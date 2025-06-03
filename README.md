@@ -30,3 +30,4 @@ We should call on the onClick prop of the <button> and send it the correct funct
 **Extra Credit**
 
 There is a provided background color value that gets adjusted each time you increase or decrease the temperature value. For extra credit you could add a style prop to the <div> with the class of screen, and using a template literal, break apart the bgCol array to set the background color of the screen using the rgb format (e.g. rgb(122, 122, 122))
+# react-average-temps
